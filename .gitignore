@@ -1,0 +1,17 @@
+# Fichiers PyInstaller
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Installateurs Windows
+*.exe
+
+# Fichiers temporaires
+*.log
+.DS_Store
